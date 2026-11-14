@@ -1,0 +1,28 @@
+DAY:4 LESSON:1
+Assessment: What an Assistant Can Reach
+ Easy
+Q1. What is the difference between an answer that fits and an answer that is true?
+An answer that fits is relevant to the question and follows the user's request. An answer that is true is factually correct and based on reliable
+ information.A good answer should be both relevant and accurate.
+Q2. Name the three kinds of AI help taught in this lesson.
+Normal Chat
+Live Search
+Voice
+Q3. What is a human check?
+A human check means a person reviews the AI's answer and verifies whether the information is correct before using it.
+ Intermediate
+Q4. A college fest team wants today's ticket price before printing a poster. Should they use normal chat, live search, or voice? Explain why.
+They should use Live Search because ticket prices can change at any time. Live Search helps find the latest ticket price and verify the information
+ before printing the poster.
+Q5. An AI gives a confident film fact for a public poster. What should the team do before using it?
+The team should verify the film fact using reliable sources. They should cross-check the information from official websites or trusted sources before
+ printing it on the public poster.
+ Hard
+Q6. For each task, choose chat, live search, or voice. Give one reason for each choice.
+1. Write a short caption from details you already know – Normal Chat. It can quickly create a caption using the given details.
+2. Find today's train cancellation update – Live Search. It provides the latest information about train cancellations.
+3. Hear a reminder while your hands are busy – Voice. Voice allows users to hear reminders without needing to read the screen.
+Q7. Write one situation where AI answer needs a human check and one situation where a quick private answer needs less checking. Explain the difference.
+An AI answer needs a human check when preparing a public college poster because incorrect information can mislead many people.
+A quick private answer, such as asking AI for a simple birthday caption, needs less checking because it is a low-risk and personal task.
+The difference is that public information can affect many people, while a simple private answer usually has less impact.
