@@ -1,0 +1,26 @@
+DAY: 5 ,assignment:2
+Your own task, walked and improved.
+#Easy
+1. Why should a student turn the seven task-path answers into one clear message?
+A student should turn the seven task-path answers into one clear message because it helps the AI understand the purpose, requirements, and expected result. 
+It saves time, avoids confusion, and provides more accurate and useful answers.
+2. What does it mean to find one weak step in a first attempt?
+It means identifying the part of the first attempt that did not work properly or gave an incorrect result. The student should understand the mistake and improve that step
+ to get a better result.
+3. Why is "it looks fine" not enough before trusting an AI answer?
+"It looks fine" is not enough because AI can sometimes provide incorrect or incomplete information. We should check facts, accuracy, 
+relevance, and reliability before trusting or using an AI answer.
+#Intermediate
+4. A student asks, "Help me with my assignment." The result is too general. Which task-path step is weak? What should the student add?
+The purpose and useful facts steps are weak. The student should add the assignment topic, subject, specific requirements, important details,
+ and expected format. This helps AI provide a clear and relevant answer.
+5. A student gets a revision timetable but never checks whether the daily workload fits their real pace. What human step did they skip?
+The student skipped the human review and checking step. They should check whether the timetable matches their learning speed, available time, and daily 
+responsibilities before following it.
+#Hard
+6. Choose one real task you need this week. Write a clear message for an AI tool using purpose, useful facts, task, and expected result.
+My task this week is to prepare for my BBA examinations. My purpose is to understand the important topics and improve my knowledge. I am a first-year BBA student, and I need simple explanations of difficult concepts.
+ I want the AI tool to explain important topics, provide examples, and prepare short notes. I expect clear, accurate, and easy-to-understand study materials that will help me prepare for my examinations.
+7. Your first result is off-target. Name one weak step you would fix, what you would change, and what you would check in the new result.
+One weak step I would fix is giving clear instructions. My first result may be too general because I did not explain my requirements properly. I would add mor
+e details about the topic, purpose, and expected format. In the new result, I would check accuracy, relevance, completeness, and whether it matches my requirements.
