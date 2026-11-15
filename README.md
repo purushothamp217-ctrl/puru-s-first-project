@@ -1,1 +1,0 @@
-# puru-s-first-project
